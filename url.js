@@ -8,7 +8,10 @@
 
 
 const urls = [
-	'https://hhming.moe',
-	'https://github.com/hms5232',
-	'https://gitlab.com/hms5232'
+	'https://images.chinatimes.com/newsphoto/2023-10-31/656/20231031004996.jpg',
+	'https://images.chinatimes.com/newsphoto/2021-03-25/1024/20210325003285.jpg',
+	'https://images.chinatimes.com/newsphoto/2023-10-20/1024/20231020001810.jpg',
+	'https://images.chinatimes.com/newsphoto/2023-07-24/1024/20230724002060.jpg',
+	'https://images.chinatimes.com/newsphoto/2023-07-27/1024/BD0100_P_02_02.jpg',
+	'https://images.chinatimes.com/newsphoto/2023-10-24/1024/20231024005254.jpg'
 ];
