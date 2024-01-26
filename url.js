@@ -9,5 +9,5 @@
 
 const urls = [
 	'https://docs.google.com/forms/d/e/1FAIpQLSc-U4znTsL8iX1fZeL5xRLbyk_yu7g9YHaAuCe2VlpHBZX9dQ/viewform',
-	'https://docs.google.com/forms/d/e/1FAIpQLSfjtNocsyRiuzA4D2YtGu-e5wP49UC1OKOonOFTqlTqcjJnNw/viewform',
+	'https://docs.google.com/forms/d/e/1FAIpQLSfjtNocsyRiuzA4D2YtGu-e5wP49UC1OKOonOFTqlTqcjJnNw/viewform'
 ];
