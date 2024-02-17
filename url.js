@@ -8,6 +8,10 @@
 
 
 const urls = [
-	'https://docs.google.com/forms/d/e/1FAIpQLSc-U4znTsL8iX1fZeL5xRLbyk_yu7g9YHaAuCe2VlpHBZX9dQ/viewform',
-	'https://docs.google.com/forms/d/e/1FAIpQLSfjtNocsyRiuzA4D2YtGu-e5wP49UC1OKOonOFTqlTqcjJnNw/viewform'
+	'https://docs.google.com/forms/d/e/1FAIpQLSffHlfK6noUT7aiSDbT4A-KC05ZB8vsdUcJGfYm2nvUsnIVBA/viewform'
+	'https://docs.google.com/forms/d/e/1FAIpQLSfM6oJn3yBwV-tE7N1Dgkh3j7GHuYUb6rV5KORhzNud0a1EaA/viewform'
+	'https://docs.google.com/forms/d/e/1FAIpQLSfUCVaJYyppa07UnLolWExofBYhW2ZbcKS1P4BJnVkKv_Qz-w/viewform'
+        'https://docs.google.com/forms/d/e/1FAIpQLSfYo3J687Z5NneaAYgFNnJL0DeKaunLAKCgXpDw4Qsm-b5Lqg/viewform'
+        'https://docs.google.com/forms/d/e/1FAIpQLSfjQpUdClw5DA3nqdWchW8F2BzmybtN6lYgOWJsrP7yIRThaQ/viewform'
+        'https://docs.google.com/forms/d/e/1FAIpQLScAgI23uEJgWu6kLUThGrAHhaIqggr1Yhnd-lBsJCRdyxW2HQ/viewform',
 ];
